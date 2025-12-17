@@ -1,7 +1,7 @@
 # Excel Sales Dashboard
 
 ## Project Overview
-This project analyzes sales data using Microsoft Excel. Pivot Tables and charts were used to build an interactive dashboard showcasing key business metrics.
+This project analyzes auto sales data using Microsoft Excel. Pivot Tables and charts were used to build an interactive dashboard showcasing key business metrics.
 
 ## Key KPIs
 - Total Sales
