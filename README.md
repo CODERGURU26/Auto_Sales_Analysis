@@ -1,5 +1,10 @@
 # Excel Sales Dashboard
 
+## Dashboard Preview
+
+![Auto Sales Dashboard](Auto_Sales_Dashboard.jpeg)
+
+
 ## Project Overview
 This project analyzes auto sales data using Microsoft Excel. Pivot Tables and charts were used to build an interactive dashboard showcasing key business metrics.
 
